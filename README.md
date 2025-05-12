@@ -1,5 +1,5 @@
 # Image Classification of Lettuce Seeds
-
+> **Note**: The code is very messy. Feel free to modularize and improve.
 ## Publication
 https://www.wcse.org/index.php?m=content&c=index&a=show&catid=26&id=1300
 
